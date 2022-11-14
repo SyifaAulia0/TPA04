@@ -1,0 +1,60 @@
+.background {
+  font-family: 'Poppins', sans-serif;
+  background-color: burlywood;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  padding: 10px 150px;
+}
+
+ul {
+  display: flex;
+}
+  
+li {
+  display: inline;
+}
+
+ul li {
+  margin: 0 10px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+ul li a {
+  padding: 8px 20px;
+  border-radius: 25px;
+}
+
+ul li :hover {
+  background-color: rgb(145, 74, 41);
+  color: #fff;
+}
+
+footer{
+  padding-top: 50px;
+  height: 250px;
+  /* background:rgb(145, 74, 41); */
+  display: inline-block;
+}
+
+footer h2{
+  text-align: center;
+}
+
+footer h3{
+  text-align: center; 
+}
+
+.akun{
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+footer p{
+  text-align: start;
+  padding-top: 50px;
+}

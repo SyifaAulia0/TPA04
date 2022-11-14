@@ -1,0 +1,16 @@
+.text{
+  padding-top: 10px;
+}
+
+.text p{
+  font-size: 23px;
+  margin-bottom: 50px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
